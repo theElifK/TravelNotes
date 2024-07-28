@@ -1,12 +1,5 @@
 # Xcode
 build/
-*.xcworkspace
-*.xcuserdata
-*.xcuserstate
-*.xcuserdatad
-*.moved-aside
-*.swp
-.DS_Store
 
 DerivedData/
 GoogleService-Info.plist
