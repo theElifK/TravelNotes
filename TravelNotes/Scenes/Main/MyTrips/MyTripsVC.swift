@@ -25,7 +25,7 @@ class MyTripsVC: UIViewController {
         getCities()
     }
     override func viewWillAppear(_ animated: Bool) {
-        self.tabBarController?.title = "My Trips"
+        self.tabBarController?.title = "Trips"
         self.getTrips()
        
     }
